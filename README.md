@@ -1,53 +1,54 @@
 # mapping-toolkit
-The Peace Corps OpenStreetMap toolkit is a constantly-updated repository of tools, how-to guides, resources, contacts and awesome content related to OpenStreetMap and geospatial data.This toolkit is intended to provide Peace Corps Staff, Volunteers and counterparts with an accessible set of materials focused on promoting activities and trainings around OpenStreetMap and geospatial data.
+
+The Peace Corps OpenStreetMap toolkit is a constantly-updated repository of tools, how-to guides, resources, contacts and awesome content related to OpenStreetMap and geospatial data. This toolkit is intended to provide Peace Corps Staff, Volunteers and counterparts with an accessible set of materials focused on promoting activities and trainings around OpenStreetMap and geospatial data.
 
 To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow the contributions guidelines in CONTRIBUTING.md.
 
-***The links and associated context is provided as-is, and any link or reference to external materials is not an endorsement of that material on the part of Peace Corps.
+***The links and associated context is provided as-is, and any link or reference to external materials is not an endorsement of that material on the part of Peace Corps.***
 
 ________
-##Introduction
+## Introduction
 
 Since digital mapping trainings successfully debuted at the Stomp Out Malaria Boot Camp, Peace Corps Volunteers and posts around the globe have worked to help their host communities put themselves “on the map” via OpenStreetMap (OSM). Geospatial data provides rigor to projects in every sector by enabling PCVs and counterparts to make data-driven decisions and visualize project info. PCVs who help their communities put themselves on OSM leave behind an incredibly useful, tangible resource and empower their communities to allocate resources more effectively, track the effects of climate change, participate in epidemiology, promote local businesses and more. Digital maps are also crucial for resilience building, and OSM is the map of choice for humanitarian responders in case of natural disaster. Peace Corps’ key role in international digital mapping efforts have been featured at the White House and presented at the United Nations.
 
 ![Colleagues of a Peace Corps Volunteer in Botswana participate in a community mapping exercise using Field Papers.](https://peacecorpsmappingproject.files.wordpress.com/2015/05/11041022_10102840788823389_5472521188633420721_o-1.jpg)
 
-##Principles 
+## Principles 
 
 Peace Corps Volunteers, staff and counterparts who use OpenStreetMap and other geospatial data in their work are encouraged to do so with the following principles in mind (with many thanks to the fantastic Peace Corps [T4D Playbook] (https://github.com/PeaceCorps/t4d-playbook) :
 
-####1. Listen to the community
+#### 1. Listen to the community
 Volunteers put in the time, the energy, and the importance of becoming a part of their communities and understanding them to the best of their abilities. Think of your communities first, and on the impact that your efforts will have on the lives of those around them. Focus on enabling environments and empowerment for those closest to the problem.
 
-####2. Design for scale and sustainability
+#### 2. Design for scale and sustainability
 Volunteers look to have global impact through community-level actions -- and not simply in the near-term. The changes in communication and technologies allow Volunteers to share experiences, resources, and models for replicating, scaling, and transforming their efforts across our global reach.
 
-####3. Focus on needs and challenges, not on technologies
+#### 3. Focus on needs and challenges, not on technologies
 Focus on solving local problems that are debated, defined and refined by local people in an ongoing process. Foster real results – real solutions to real problems that have real impact: they build trust, empower people and promote sustainability.
 
-####4. Co-create and build with buy-in
+#### 4. Co-create and build with buy-in
 Legitimize at all levels (political, managerial and social), building ownership and momentum throughout the process to be ‘locally owned’ in reality (not just on paper). Volunteers are by nature and training inclusive. They bring anyone and everyone to the table—the ones with strong voices as well as those who have not traditionally had a voice at the table. Peace Corps knows that we can go further, together. 
 
-####5. Tinker, make, do
+#### 5. Tinker, make, do
 Volunteers are tinkerers, makers, and hackers. Volunteers do more with less. They help their communities to start where they are, use what they have, and do what they can—starting the day they arrive.
 
-####6. Open data
+#### 6. Open data
 
 Data that can be open and accessible should be open and accessible. In other words, if you collect geospatial data that would be of genuine interest to the public, such as points of interest or alternate names of villages, you should include it in OpenStreetMap so that others may benefit from your work. Data should be stored in machine-readable formats such as spreadsheets or CSV files, rather than PDFs, when possible. For an introduction to open data, read the Open Knowledge Foundation's [Open Data Handbook.](https://drive.google.com/file/d/0B0Vr8VHoYeB7U2NTczFYRE01RU0/view)
 
-####7. Humans > data, always
+#### 7. Humans > data, always
 
 Volunteers think first of their communities, and look to help them in ways that protect the privacy, safety, and security of everyone they engage with. Some data that Peace Corps Volunteers and their colleagues collect and use -- for example, in public health projects -- could contain personal and sensitive information about humans that needs to be well-protected and secured. For solid tips on data responsibility, read ["Shooting our hard drive into space and other ways to practice responsible development data".](https://drive.google.com/file/d/0B0Vr8VHoYeB7cEk1STFlRTJjOWM/edit) 
 
-####8. Diversity and inclusivity
+#### 8. Diversity and inclusivity
 
 Data collection and OpenStreetMap activities should intentionally promote diversity and inclusivity. Peace Corps Volunteers and counterparts should include minority populations, such as women, in their data collection and OpenStreetMap projects. Data collection tends to incorporate implicit biases, especially regarding women and groups that don't identify with binary genders. For more information, read TechChange's ["The Case for Gender Data".](https://www.techchange.org/2015/04/17/global-development-gender-data/)
 
-####9. Human Centered Design
+#### 9. Human Centered Design
 
 Human Centered Design emphasizes empathy, optimism, learning from failure and rapid iteration -- the hallmarks of any great Peace Corps project. Blend design and implementation through rapid cycles of planning, action, reflection and revision (drawing on local knowledge, feedback and energy) to foster learning from both success and failure. Manage risks by making ‘small bets’: pursuing activities with promise and dropping others. To learn more about how to use Human Centered Design in your Peace Corps work (highly recommended!), see IDEO's [Design Kit and Field Guide to Human Centered Design.](http://www.designkit.org/)
 
-##Peace Corps OpenStreetMap Projects in a Box
+## Peace Corps OpenStreetMap Projects in a Box
 
 [Peace Corps OSM "Projects in Box"](https://drive.google.com/open?id=0BxqYHzBUSr1NfnBlV2dnMVNhNmlCcC1zcnFqV204VVEzdXNvQmpNamkwMmhqZ0U3U214SWc&authuser=0) were written specifically for PCVs in the field and counterparts to put their communities on OSM in innovative ways. This content includes a Community Mapping Training Guide (in the Points of Interest doc) and guides to throwing mapping parties, adding local points of interest to OSM, bike and map tours, OSM map murals and more.  
 
@@ -65,11 +66,11 @@ Projects in a Box include:
 
 ![Students of a Peace Corps Volunteer in Nicaragua add their community to the map using the iD editor.](https://peacecorpsmappingproject.files.wordpress.com/2015/05/11053893_843336679516_8267468404257874974_o.jpg)
 
-##Peace Corps Mapping Trainings
+## Peace Corps Mapping Trainings
 
 While any good Peace Corps trainer will always customize resources and knowledge to fit their local context, this template provides a great starting point for Peace Corps Volunteers, staff and counterparts to present an introduction to mapmaking. The "Intro to Mapping for Peace Corps" slide deck can be found [here] (https://docs.google.com/presentation/d/1vhoaPy0jB4CuUi76ypZmjyZO6ueBjigVwF8bRM-pzlI/edit?usp=sharing). 
 
-##For Post Staff
+## For Post Staff
 
 The Office of Innovation has identified several key opportunities to involve your post in the Peace Corps Mapping Initiative. We are happy to help facilitate any of the following activities, in addition to projects designed by your post or PCVS:
 
@@ -83,7 +84,7 @@ To involve your post in any of these activities, propose a different activity, o
 
 ![A contributor to OpenStreetMap in Ghana.](https://peacecorpsmappingproject.files.wordpress.com/2015/05/ghana-mapper.jpg)
 
-##Right Now in Peace Corps
+## Right Now in Peace Corps
 
 [Current Peace Corps OSM stats](http://powerful-mesa-2776.herokuapp.com/)
 
@@ -91,7 +92,7 @@ To involve your post in any of these activities, propose a different activity, o
 
 [Powerful Mesa](http://powerful-mesa-2776.herokuapp.com/) -- Realtime mapping efforts of #PeaceCorps on OpenStreetMap
 
-##OSM Tutorials
+## OSM Tutorials
 
 [MapGive](http://mapgive.state.gov/) is an initiative of the State Department's Humanitarian Information Unit. MapGive features several highly recommended video tutorials explaining the importance of OSM for humanitarian response and how to edit using the iD editor.
 
@@ -103,7 +104,7 @@ To involve your post in any of these activities, propose a different activity, o
 
 [Be a Mapper] (http://beamapper.com/) provides a basic but clear overview of how to join the OpenStreetMap community. 
 
-##OSM Tools
+## OSM Tools
 
 [Field Papers](http://fieldpapers.org/) allow you to print an atlas, record what you see in the world through street mapping, and upload the data to OpenStreetMap. 
 
@@ -115,7 +116,7 @@ To involve your post in any of these activities, propose a different activity, o
 
 [Mapillary] (http://www.mapillary.com/map) is a service for crowdsourcing map photos. 
 
-##Map community building with Maptime
+## Map community building with Maptime
 
 [Maptime](http://maptime.io/about/) is an open learning environment for all levels and degrees of knowledge, offering intentional educational support for the beginner. Maptime is simultaneously flexible and structured, creating space for mapping tutorials, workshops, ongoing projects with a shared goal, and independent/collaborative work time. Beginners most welcome!
 
@@ -129,7 +130,7 @@ Maps for all forever! --From the Maptime website
 
 Anyone can start a chapter! See a list of current Maptime chapters [here](http://maptime.io/chapters/). We'd love for Peace Corps Volunteers and counterparts to experiment with starting a Maptime chapter at their site or in their nearest city. For more information about starting a chapter, email hello@maptime.io. And then let Courtney Clark know at cclark2@peacecorps.gov, because you're awesome and she'll want to brag about you. 
 
-##GIS (Geographic Information System) and Mapping Tools Overviews
+## GIS (Geographic Information System) and Mapping Tools Overviews
 
 [What your favorite map projection says about you, a la XKCD](http://xkcd.com/977/)
 
@@ -400,7 +401,7 @@ Anyone can start a chapter! See a list of current Maptime chapters [here](http:/
 
 
 
-##Promoting Diversity in Mapping
+## Promoting Diversity in Mapping
 
 [OpenStreetMap Wiki page on Diversity in OSM](https://wiki.openstreetmap.org/wiki/Diversity) 
 
@@ -412,7 +413,7 @@ Anyone can start a chapter! See a list of current Maptime chapters [here](http:/
 
 ## Talks and Presentations
 
-####State of the Map 2015
+#### State of the Map 2015
 
 [All State of the Map 2015 talks](http://stateofthemap.us/program/)
 
@@ -435,7 +436,7 @@ Anyone can start a chapter! See a list of current Maptime chapters [here](http:/
 
 There are a wide variety of OSM email lists that might be of interest to Peace Corps Volunteers, staff and counterparts. These include the Humanitarian OpenStreetMap Team, diversity, newbies, and the general list. Some country groups also have their own email lists that can keep you updated on events and trainings in your Peace Corps country. To see the full list of the lists and to suscribe, click [here](https://lists.openstreetmap.org/listinfo). 
 
-##Local OSM Communities in Peace Corps Countries
+## Local OSM Communities in Peace Corps Countries
 
 Albania:
 
@@ -716,7 +717,3 @@ Vanuatu:
 Zambia:
 
 * [Wiki](http://wiki.openstreetmap.org/wiki/WikiProject_Zambia)
-
-
-
-
